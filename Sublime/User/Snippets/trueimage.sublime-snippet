@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+TrueLib::getImage(array(
+	'name'     => '${1:name}',
+	'size'     => '${2:size}',
+	'subfield' => ${3:false},
+	'class'    => '${4:}',
+));
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>trueimage</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.php, source.html</scope> -->
+</snippet>

@@ -1,0 +1,37 @@
+{
+	"Seti_blue_tab_label": true,
+	"Seti_sb_small_padding": true,
+	"Seti_sb_tree_small": true,
+	"Seti_tabs_small": true,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.po",
+		"*.mo",
+		"*.zip",
+		"*.tiff",
+		"*.woff",
+		"*.woff2",
+		"*.otf",
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".sass-cache",
+		"node_modules"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"theme": "Seti_orig.sublime-theme"
+}

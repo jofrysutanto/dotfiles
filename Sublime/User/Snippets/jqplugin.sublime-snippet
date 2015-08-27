@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+jQuery(document).ready(function(\$) {
+
+	/**
+	 * ${1:Describe your code here}
+	 */
+
+	var ${2:fooBar} = {
+
+		init: function() {
+			$0
+		}
+
+	};
+
+	${2:fooBar}.init();
+
+});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>jqplugin</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php, source.js, source.html</scope>
+</snippet>

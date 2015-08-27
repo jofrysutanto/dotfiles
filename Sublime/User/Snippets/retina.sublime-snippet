@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+.img-retina('${1:imgpath}.${2:extension}', '${1:imgpath}@2x.${2:extension}', ${3:width}px, ${4:height}px);
+background-position: ${5:x-axis} ${6:y-axis}; background-repeat: no-repeat;
+background-size: ${3:width}px ${4:height}px;
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>retina</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.less</scope>
+</snippet>

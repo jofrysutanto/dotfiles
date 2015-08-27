@@ -1,0 +1,33 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Blade Snippets",
+		"Color Highlighter",
+		"CSS Extended Completions",
+		"DocBlockr",
+		"EasyDiff",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Git",
+		"GitGutter",
+		"Laravel 5 Artisan",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"Material Theme",
+		"Package Control",
+		"PHP Companion",
+		"PHPIntel",
+		"PHPUnit",
+		"RawLineEdit",
+		"Seti_UI",
+		"SFTP",
+		"SideBarEnhancements",
+		"Terminal",
+		"Xdebug Client"
+	]
+}

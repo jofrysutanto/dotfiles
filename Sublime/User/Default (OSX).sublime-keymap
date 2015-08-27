@@ -1,0 +1,49 @@
+[
+	{ "keys": ["super+;"], "command": "run_macro_file", "args": {"file": "Packages/User/end-with-semi-colon.sublime-macro"} },
+	{ "keys": ["super+."], "command": "run_macro_file", "args": {"file": "Packages/User/php-quick-echo.sublime-macro"} },
+	{ "keys": ["super+shift+;"], "command": "alignment" },
+
+	{ "keys": ["super+k", "super+w"], "command": "new_pane" },
+	{ "keys": ["super+k", "super+shift+w"], "command": "new_pane", "args": {"move": false} },
+	{ "keys": ["super+k", "super+s"], "command": "close_pane" },
+	{ "keys": ["super+k", "super+a"], "command": "focus_neighboring_group", "args": {"forward": false} },
+	{ "keys": ["super+k", "super+d"], "command": "focus_neighboring_group" },
+	{ "keys": ["super+k", "super+shift+a"], "command": "move_to_neighboring_group", "args": {"forward": false} },
+	{ "keys": ["super+k", "super+shift+d"], "command": "move_to_neighboring_group" },
+	{ "keys": ["super+k", "super+right"], "command": "close_to_right" },
+	{ "keys": ["super+shift+k", "super+shift+w"], "command": "close_others" },
+	{ "keys": ["super+k", "super+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+	{ "keys": ["super+shift+w", "super+shift+w"], "command": "insert_snippet", "args": { "name": "Packages/XML/long-tag.sublime-snippet" } },
+
+	{ "keys": ["super+shift+a"], "command": "expand_selection", "args": {"to": "tag"} },
+	{ "keys": ["super+m"], "command": "move_to", "args": {"to": "brackets"} },
+	{
+        "keys": [
+            "super+shift+m"
+        ],
+        "args": {
+            "action": "matching_pair"
+        },
+        "command": "run_emmet_action",
+        "context": [
+            {
+                "key": "emmet_action_enabled.matching_pair"
+            }
+        ]
+    },
+    { "keys": ["super+shift+r"], "command": "side_bar_move" },
+    {
+    	"keys": ["super+shift+b"],
+    	"command": "open_terminal",
+    	"args": {
+    		"parameters": ["gulp"]
+    	}
+    },
+    { "keys": ["super+shift+e"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} },
+    { "keys": ["super+o"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+
+    { "keys": ["super+shift+h", "super+shift+e"], "command": "expand_fqcn" },
+    { "keys": ["super+shift+h", "super+shift+u"], "command": "find_use" },
+    { "keys": ["super+shift+h", "super+shift+n"], "command": "import_namespace" },
+    { "keys": ["super+shift+h", "super+shift+p"], "command": "goto_definition_scope" }
+]
