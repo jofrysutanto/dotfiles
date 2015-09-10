@@ -6,6 +6,8 @@
 	"caret_extra_bottom": 3,
 	"caret_extra_top": 3,
 	"caret_extra_width": 2,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
 	"color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
 	"file_exclude_patterns":
 	[
