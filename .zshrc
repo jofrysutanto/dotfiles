@@ -93,6 +93,7 @@ alias htdocs='cd ~/Documents/htdocs/'
 alias mg='php artisan migrate'
 alias mg:r='php artisan migrate:rollback'
 alias arti='php artisan'
+alias vm="ssh vagrant@127.0.0.1 -p 2222"
 alias db:s='php artisan db:seed'
 alias mg:res='php artisan migrate:reset'
 alias mg:ref='php artisan migrate:refresh --seed'

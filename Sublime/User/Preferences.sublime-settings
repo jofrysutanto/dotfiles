@@ -6,8 +6,6 @@
 	"caret_extra_bottom": 3,
 	"caret_extra_top": 3,
 	"caret_extra_width": 2,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
 	"color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
 	"file_exclude_patterns":
 	[
@@ -25,7 +23,12 @@
 		".svn",
 		".git",
 		".sass-cache",
-		"node_modules"
+		"node_modules",
+		"htdocs/cms",
+		"htdocs/content/plugins",
+		"htdocs/content/languages",
+		"htdocs/content/uploads",
+		"htdocs/content/upgrade"
 	],
 	"font_face": "Source Code Pro",
 	"font_size": 13,
@@ -35,5 +38,7 @@
 		"Vintage"
 	],
 	"overlay_scroll_bars": "enabled",
-	"theme": "Seti_orig.sublime-theme"
+	"tab_size": 4,
+	"theme": "Seti_orig.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
