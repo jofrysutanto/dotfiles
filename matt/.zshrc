@@ -13,7 +13,7 @@ ZSH_THEME="dstufft"
 # * ~/.mix-path can be used to extend `$PATH`.
 # * ~/.mix-extra can be used for other settings you don’t want to commit to your repo.
 for file in ~/.mix-{path,exports,aliases,extra}; do
-    [ -r "$file" ] && source "$file"
+	[ -r "$file" ] && source "$file"
 done
 unset file
 
