@@ -68,4 +68,5 @@ export PATH=~/.composer/vendor/bin:$PATH
 alias htdocs='cd ~/Documents/htdocs/'
 alias mg='php artisan migrate'
 alias mg:r='php artisan migrate:rollback'
-alias arti='php artisan'
+alias art='php artisan'
+alias g='gulp'

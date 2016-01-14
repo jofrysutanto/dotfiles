@@ -10,7 +10,6 @@
 		"Blade Snippets",
 		"CSS Extended Completions",
 		"DocBlockr",
-		"EasyDiff",
 		"Emmet",
 		"Emmet Css Snippets",
 		"Git",
@@ -28,6 +27,8 @@
 		"Seti_UI",
 		"SFTP",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
 		"Terminal",
 		"Xdebug Client"
 	]

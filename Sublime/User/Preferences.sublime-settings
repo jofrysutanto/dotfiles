@@ -6,7 +6,7 @@
 	"caret_extra_bottom": 3,
 	"caret_extra_top": 3,
 	"caret_extra_width": 2,
-	"color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
+	"color_scheme": "Packages/User/Themes/Seti_monokai.tmTheme",
 	"file_exclude_patterns":
 	[
 		"*.po",
@@ -23,12 +23,7 @@
 		".svn",
 		".git",
 		".sass-cache",
-		"node_modules",
-		"htdocs/cms",
-		"htdocs/content/plugins",
-		"htdocs/content/languages",
-		"htdocs/content/uploads",
-		"htdocs/content/upgrade"
+		"node_modules"
 	],
 	"font_size": 13,
 	"highlight_line": true,
@@ -36,6 +31,7 @@
 	[
 		"Vintage"
 	],
+	"line_numbers": true,
 	"overlay_scroll_bars": "enabled",
 	"tab_size": 4,
 	"theme": "Seti_orig.sublime-theme",
