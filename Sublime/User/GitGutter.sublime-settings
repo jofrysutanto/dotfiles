@@ -1,0 +1,3 @@
+{
+    "protected_regions": ["sublimelinter-error-gutter-marks", "sublimelinter-warning-gutter-marks"]
+}
