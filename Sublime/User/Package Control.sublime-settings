@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -20,12 +21,15 @@
 		"Material Theme",
 		"Package Control",
 		"PHP Companion",
+		"PHP-Twig",
 		"PHPIntel",
 		"PHPUnit",
 		"RawLineEdit",
 		"Seti_UI",
 		"SFTP",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
 		"Terminal",
 		"Xdebug Client"
 	]

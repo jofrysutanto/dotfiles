@@ -6,7 +6,7 @@
 	"caret_extra_bottom": 3,
 	"caret_extra_top": 3,
 	"caret_extra_width": 2,
-	"color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
+	"color_scheme": "Packages/User/Seti_monokai.tmTheme",
 	"file_exclude_patterns":
 	[
 		"*.po",
@@ -33,5 +33,5 @@
 		"Vintage"
 	],
 	"overlay_scroll_bars": "enabled",
-	"theme": "Seti_orig.sublime-theme"
+	"theme": "Seti.sublime-theme"
 }
